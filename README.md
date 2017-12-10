@@ -20,7 +20,7 @@ And run it using
 sudo python main.py
 ```
 ### Some Screenshots from working application
-![Alt text](/Screenshots/digital\ chess\ board.png?raw=true "Digital Chess Board")
+![Alt text](/Screenshots/digital_chess_board.png?raw=true "Digital Chess Board")
 ![Alt text](/Screenshots/Move1_frame.png?raw=true "Move 1 on board")
 
 ## Authors
