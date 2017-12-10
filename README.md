@@ -1,79 +1,33 @@
 # VisionChess
-The Chess Vision project is system that applies computer vision techniques and algorithms to capture a game of chess played in the real world and accurately analyze what moves were made. Through a camera positioned above a stationary chess board, the system aims to output a virtual depiction of a game of Chess played in real-time in the physical world by two players.
+The VisionChess project is system that applies computer vision techniques and algorithms to capture a game of chess played in the real world and accurately analyze what moves were made. Through a camera positioned above a stationary chess board, the system aims to output a virtual depiction of a game of Chess played in real-time in the physical world by two players.
 ![Alt text](/Screenshots/detected_all_pieces.png?raw=true "Running Chess Vision Application")
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Download or clone this repository to your local system.You need to have an external camera attached to your system as well as chess game to have a demo.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You need to install Opencv on your machine. This project has been tested on Ubuntu 16.04 with OpenCV 2.4.13.Installing OpenCV on ubuntu has been documented in my repositories.
 
 ```
 Give examples
 ```
 
 ### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
+Download this project to your machine.
+Move to the folder using
 ```
-Give the example
+cd VisionChess
 ```
-
-And repeat
-
+And run it using
 ```
-until finished
+sudo python main.py
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Amanpreet Walia** - *Chess Vision Algorithm* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Youn Sun (Joy) Choi** - *Implemented chess board* 
 
 ## License
 
