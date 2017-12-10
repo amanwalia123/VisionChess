@@ -9,10 +9,6 @@ Download or clone this repository to your local system.You need to have an exter
 
 You need to install Opencv on your machine. This project has been tested on Ubuntu 16.04 with OpenCV 2.4.13.Installing OpenCV on ubuntu has been documented in my repositories.
 
-```
-Give examples
-```
-
 ### Installing
 Download this project to your machine.
 Move to the folder using
