@@ -1,7 +1,7 @@
 # VisionChess
 The VisionChess project is system that applies computer vision techniques and algorithms to capture a game of chess played in the real world and accurately analyze what moves were made. Through a camera positioned above a stationary chess board, the system aims to output a virtual depiction of a game of Chess played in real-time in the physical world by two players.
 ![Alt text](/Screenshots/detected_all_pieces.png?raw=true "Running Chess Vision Application")
-### Images for my chess demo show first move being made by black instead of white,however this is illegal in normal chess game.Our System is currently just tracing movement of pieces from initial state,However it will be a interesting extension of this project to combine it with chess engines like stockfish.
+### * Images for my chess demo show first move being made by black instead of white,however this is illegal in normal chess game.Our System is currently just tracing movement of pieces from initial state,However it will be a interesting extension of this project to combine it with chess engines like stockfish. *
 ## Getting Started
 
 Download or clone this repository to your local system.You need to have an external camera attached to your system as well as chess game to have a demo.
