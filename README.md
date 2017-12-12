@@ -24,7 +24,7 @@ sudo python main.py
 ![Alt text](/Screenshots/digital_chess_board.png?raw=true "Digital Chess Board")
 ![Alt text](/Screenshots/Move1_frame.png?raw=true "Move 1 on board")
 ### Presentation
-Presentation for given project can be accessed using [Presenetation](Chess-Vision.pdf).
+Presentation for given project can be accessed using [here](Chess-Vision.pdf).
 ## Authors
 
 * **Amanpreet Walia** - *Chess Vision Algorithm* 
